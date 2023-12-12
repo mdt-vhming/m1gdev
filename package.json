@@ -1,0 +1,24 @@
+{
+  "name": "vhming_development",
+  "version": "0.0.1",
+  "description": "Bot này của VHMing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "VHMing",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security",
+    "mongodb": "4.1",
+    "mongoose": "^8.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
